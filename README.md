@@ -11,3 +11,7 @@
 ### flush dns in powershell 'ipconfig /flushdns'
 
 ### ping github.com
+
+## HTTP/2 stream 1 was not closed cleanly before end of the underlying stream
+
+### HTTP/2 stream 1 was not closed cleanly before end of the underlying stream
